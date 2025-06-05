@@ -97,6 +97,4 @@ class BaseBattleField
         return 'document.location.origin + document.location.pathname';
     }
 
-};
-
-?>
+}
